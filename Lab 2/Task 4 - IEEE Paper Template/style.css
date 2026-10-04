@@ -1,0 +1,8 @@
+body{font-family:"Times New Roman",Times,serif}
+.paper{max-width:850px}
+/* Bootstrap's grid is for blocks, not flowing text, so the two-column body still
+   uses plain CSS multi-column - this is the one thing Bootstrap doesn't do. */
+.cols{column-count:2;column-gap:24px}
+.cols p{text-indent:1.2em}
+.text-justify{text-align:justify}
+@media(max-width:700px){.cols{column-count:1}}

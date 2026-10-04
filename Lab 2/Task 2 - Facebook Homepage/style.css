@@ -1,0 +1,4 @@
+.avatar{width:36px;height:36px;display:flex;align-items:center;justify-content:center;font-weight:700;flex:none}
+.story{width:110px;height:170px;background-size:cover}
+.s1{background:linear-gradient(#ff9a9e,#a18cd1)}.s2{background:linear-gradient(#43cea2,#185a9d)}.s3{background:linear-gradient(#f6d365,#fda085)}
+.bg-purple{background:#8e44ad}
